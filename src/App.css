@@ -35,6 +35,11 @@ input {
   color: #242443;
   height: 60px;
 }
+.brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .sign-in {
   border: none;
   background-color: transparent;
